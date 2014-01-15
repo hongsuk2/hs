@@ -1,5 +1,5 @@
 package suk;
 
 public class test {
-aaa;
+aaa;AA;
 }
